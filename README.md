@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Slavia Furtado
 
-I'm an Enthusiatic Frontend developer looking for challenges and projects. Currenly learning React and it blows my mind to see how amazing it is.
+I'm an Enthusiatic Frontend developer looking for challenges and opportunities. Currenly learning React and it blows my mind to see how amazing it is.
 
 - 🔭 I’m currently a student at Hack Your Future
 - 👯 I’m looking to collaborate on ReactJs and Javascript Projects
